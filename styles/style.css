@@ -53,7 +53,7 @@ html {
 }
 
 .page__heading::after {
-    content: "*";  
+    content: "*";
 }
 
 .page__heading:hover {
